@@ -4,3 +4,5 @@ node_modules
 platforms
 .vscode
 app/**/*.js
+package-lock.json
+app/App_Resources/Android/app.gradle
