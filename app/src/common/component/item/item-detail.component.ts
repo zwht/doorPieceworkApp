@@ -8,6 +8,7 @@ import { ItemService } from "./item.service";
     selector: "ns-details",
     moduleId: module.id,
     templateUrl: "./item-detail.component.html",
+    styleUrls: ['./detail.less']
 })
 export class ItemDetailComponent implements OnInit {
     item: Item;
